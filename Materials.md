@@ -10,3 +10,7 @@
 
 [vpn工作原理和搭建方法](https://yuerblog.cc/2017/01/03/how-vpn-works-and-how-to-setup-pptp/)  
 
+[OpenVPN原理及其搭建](https://www.jianshu.com/p/d7fae1fa847c)   
+
+[OpenVPN的工作原理](https://blog.csdn.net/naipeng/article/details/54972404)
+
